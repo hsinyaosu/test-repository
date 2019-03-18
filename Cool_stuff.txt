@@ -3,4 +3,8 @@ Random
 More random
 More random
 Mira's random shizzle
+<<<<<<< HEAD
 Ready to rock Git-hubbing
+=======
+Alex rock
+>>>>>>> 15e61886e4d25e21d6594cf64c44ed1fbf861ecd
